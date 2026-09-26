@@ -1,0 +1,8 @@
+{
+  "projectId": "70rd1u6b",
+  "dataset": "production",
+  "apiHost": "70rd1u6b.api.sanity.io",
+  "claimUrl": "https://www.sanity.io/manage/claim/-TKo58UgTQ1mYfvHLHILpqaWYnBpsNnarQ9bRtk7QoI",
+  "expiresAt": "2026-09-27T11:15:59.352Z",
+  "mcpEndpoint": "http://localhost:3000/api/mcp"
+}
