@@ -43,7 +43,7 @@ Before any code deployment or pull request is merged:
 ## 🌐 Live Demo & Repository
 
 - 🔗 **Live Web Application:** [https://sanity-omega-ten.vercel.app](https://sanity-omega-ten.vercel.app)
-- 💻 **GitHub Repository:** [https://github.com/your-username/shipcheck](https://github.com/your-username/shipcheck)
+- 💻 **GitHub Repository:** [https://github.com/aiwithrajan/shipcheck](https://github.com/aiwithrajan/shipcheck)
 - 🗄️ **Sanity Content Lake Project ID:** `70rd1u6b` (Dataset: `production`)
 
 ---
